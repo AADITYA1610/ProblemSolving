@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AADITYA1610/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
