@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AADITYA1610/ProblemSolving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
