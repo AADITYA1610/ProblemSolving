@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AADITYA1610/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [3903-smallest-stable-index-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
