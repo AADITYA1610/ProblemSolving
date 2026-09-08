@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AADITYA1610/ProblemSolving/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AADITYA1610/ProblemSolving/tree/master/0010-regular-expression-matching) |
 | [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/AADITYA1610/ProblemSolving/tree/master/0010-regular-expression-matching) |
 ## Hash Table
 |  |
 | ------- |
