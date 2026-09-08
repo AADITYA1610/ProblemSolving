@@ -31,6 +31,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AADITYA1610/ProblemSolving/tree/master/0009-palindrome-number) |
 | [3870-count-commas-in-range](https://github.com/AADITYA1610/ProblemSolving/tree/master/3870-count-commas-in-range) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
