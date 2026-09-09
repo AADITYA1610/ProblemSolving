@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AADITYA1610/ProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [3870-count-commas-in-range](https://github.com/AADITYA1610/ProblemSolving/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
 |  |
 | ------- |
