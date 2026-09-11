@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/AADITYA1610/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AADITYA1610/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AADITYA1610/ProblemSolving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -151,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
+## Sorting
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
