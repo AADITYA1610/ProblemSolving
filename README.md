@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [1732-find-the-highest-altitude](https://github.com/AADITYA1610/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AADITYA1610/ProblemSolving/tree/master/0010-regular-expression-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AADITYA1610/ProblemSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AADITYA1610/ProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AADITYA1610/ProblemSolving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
