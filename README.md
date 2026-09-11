@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/AADITYA1610/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3903-smallest-stable-index-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AADITYA1610/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
