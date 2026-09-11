@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AADITYA1610/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/AADITYA1610/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3903-smallest-stable-index-i) |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
