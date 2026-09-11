@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/AADITYA1610/ProblemSolving/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AADITYA1610/ProblemSolving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AADITYA1610/ProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/AADITYA1610/ProblemSolving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
