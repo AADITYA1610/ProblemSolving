@@ -73,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AADITYA1610/ProblemSolving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/AADITYA1610/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AADITYA1610/ProblemSolving/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/AADITYA1610/ProblemSolving/tree/master/0021-merge-two-sorted-lists) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AADITYA1610/ProblemSolving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
