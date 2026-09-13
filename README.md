@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AADITYA1610/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AADITYA1610/ProblemSolving/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/AADITYA1610/ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/AADITYA1610/ProblemSolving/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
