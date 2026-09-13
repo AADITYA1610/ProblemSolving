@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AADITYA1610/ProblemSolving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AADITYA1610/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AADITYA1610/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0835-image-overlap](https://github.com/AADITYA1610/ProblemSolving/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AADITYA1610/ProblemSolving/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/AADITYA1610/ProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AADITYA1610/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/AADITYA1610/ProblemSolving/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AADITYA1610/ProblemSolving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AADITYA1610/ProblemSolving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AADITYA1610/ProblemSolving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
