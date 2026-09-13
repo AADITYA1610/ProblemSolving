@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AADITYA1610/ProblemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/AADITYA1610/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0835-image-overlap](https://github.com/AADITYA1610/ProblemSolving/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
 | [1732-find-the-highest-altitude](https://github.com/AADITYA1610/ProblemSolving/tree/master/1732-find-the-highest-altitude) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AADITYA1610/ProblemSolving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AADITYA1610/ProblemSolving/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/AADITYA1610/ProblemSolving/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
