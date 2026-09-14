@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AADITYA1610/ProblemSolving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AADITYA1610/ProblemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AADITYA1610/ProblemSolving/tree/master/0013-roman-to-integer) |
+| [0836-rectangle-overlap](https://github.com/AADITYA1610/ProblemSolving/tree/master/0836-rectangle-overlap) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3870-count-commas-in-range](https://github.com/AADITYA1610/ProblemSolving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AADITYA1610/ProblemSolving/tree/master/3871-count-commas-in-range-ii) |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AADITYA1610/ProblemSolving/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AADITYA1610/ProblemSolving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
